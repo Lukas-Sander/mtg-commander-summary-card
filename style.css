@@ -1,0 +1,6 @@
+.card {
+    width: 2.5in;
+    height: 3.5in;
+    border: 3mm solid black;
+    border-radius: 3mm;
+}
